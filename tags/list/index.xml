@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>list on Xie&#39;s Lab</title>
+    <link>https://Wen-bioinfo.github.io/tags/list/</link>
+    <description>Recent content in list on Xie&#39;s Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Aug 2019 16:34:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://Wen-bioinfo.github.io/tags/list/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salt stress related genes</title>
+      <link>https://Wen-bioinfo.github.io/posts/gene/</link>
+      <pubDate>Thu, 15 Aug 2019 16:34:27 +0800</pubDate>
+      
+      <guid>https://Wen-bioinfo.github.io/posts/gene/</guid>
+      <description>Salt stress related genes
+salt info</description>
+    </item>
+    
+  </channel>
+</rss>
